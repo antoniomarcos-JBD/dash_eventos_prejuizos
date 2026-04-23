@@ -1,5 +1,0 @@
-{
-  "rewrites": [
-    { "source": "/", "destination": "/dashboard_eventos_prejuizos.html" }
-  ]
-}
